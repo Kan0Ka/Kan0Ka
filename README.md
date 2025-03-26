@@ -1,6 +1,16 @@
 <h1 align="center">Hi, I'm Kan0👋</h1>
 
-- 🤔 Currently learning C++, HTML, CSS and Java
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Gravitas+One&size=35&pause=1000&color=6A1DF7&width=435&lines=Loving+Minecraft" alt="Typing SVG" /></a>
+</div>
+
+
+<div align="center">
+  <a href="https://discord.com/users/261424546819604480" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <h2>🤔 Currently learning C++, HTML, CSS and Java</h2>
+</div>
 
 <hr>
 
