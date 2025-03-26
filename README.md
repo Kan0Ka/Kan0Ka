@@ -5,6 +5,6 @@
 <hr>
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Kan0Ka&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Kan0Ka&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kan0Ka&show_icons=true&theme=dark"
 </div>
