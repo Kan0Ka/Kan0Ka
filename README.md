@@ -6,5 +6,5 @@
 
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Kan0Ka&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://readme-stats-tau-sepia.vercel.app/api/top-langs?username=Kan0Ka&show_icons=true&theme=dark"
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kan0Ka&show_icons=true&theme=dark"
 </div>
