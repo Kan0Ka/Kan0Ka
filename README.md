@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <hr>
-  <h3>🤔 Currently learning C++, HTML, CSS, Java, JavaScript and Maven</h3>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,cpp,maven" height="40"/>
+  <h3>🤔 Currently learning HTML, CSS, JavaScript, C++, Java and Maven</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,maven" height="40"/>
 </div>
 
 <hr>
